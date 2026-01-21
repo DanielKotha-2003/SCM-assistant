@@ -151,7 +151,7 @@ The platform covers explanations involving:
 For more information about:
 - **Streamlit**: https://docs.streamlit.io/
 - **Google Gemini API**: https://ai.google.dev/docs/
-- **Oracle SCM**: https://docs.oracle.com/cd/E26401_01/doc.122/e22936/toc.htm
+- **Oracle SCM**: [Oracle Help Center](https://docs.oracle.com/search/?q=SCM)
 
 ## 💡 Tips for Best Results
 
@@ -197,6 +197,7 @@ Built with:
 **Version**: 1.0  
 **Last Updated**: January 2026  
 **Status**: Active Development
+
 
 
 
