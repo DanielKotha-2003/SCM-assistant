@@ -2,7 +2,7 @@
 
 An interactive web application built with **Streamlit** and powered by **Google Gemini AI** to help students and freshers understand Oracle EBS and Oracle Fusion Cloud business transaction flows.
 
-# **Live application:** https://scm-assistant.streamlit.app/ [Hosted on streamlit community cloud] 
+## **Live application:** https://oracle-scm-ai-knowledge-engine.streamlit.app/ [Hosted on streamlit community cloud] 
 
 ## 📋 Features
 
@@ -197,6 +197,7 @@ Built with:
 **Version**: 1.0  
 **Last Updated**: January 2026  
 **Status**: Active Development
+
 
 
 
